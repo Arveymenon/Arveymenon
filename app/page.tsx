@@ -533,10 +533,10 @@ const App: React.FC = () => {
         <div className="flex gap-4 md:gap-8 items-center">
           <div className="hidden sm:flex gap-4 md:gap-6 items-center">
             <Magnetic strength={0.5}>
-              <motion.a href="https://github.com" target="_blank" className="p-2"><Github size={20} className="opacity-40 hover:opacity-100 transition-opacity" /></motion.a>
+              <motion.a href="https://github.com/Arveymenon" target="_blank" className="p-2"><Github size={20} className="opacity-40 hover:opacity-100 transition-opacity" /></motion.a>
             </Magnetic>
             <Magnetic strength={0.5}>
-              <motion.a href="https://linkedin.com" target="_blank" className="p-2"><Linkedin size={20} className="opacity-40 hover:opacity-100 transition-opacity" /></motion.a>
+              <motion.a href="https://www.linkedin.com/in/arulvinayak-m/" target="_blank" className="p-2"><Linkedin size={20} className="opacity-40 hover:opacity-100 transition-opacity" /></motion.a>
             </Magnetic>
           </div>
           
