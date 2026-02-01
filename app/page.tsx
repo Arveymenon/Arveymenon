@@ -734,10 +734,10 @@ const App: React.FC = () => {
           </motion.div>
           
           <div className="grid md:grid-cols-3 gap-12 items-center text-[10px] md:text-xs font-mono uppercase tracking-[0.3em] font-bold text-white/30">
-            <div className="md:text-left order-3 md:order-1">© 2025 // ARUL.PRO</div>
+            <div className="md:text-left order-3 md:order-1">© 2026 // ARUL.PRO</div>
             <div className="flex justify-center gap-8 md:gap-12 order-1 md:order-2">
-              <Magnetic strength={0.3}><a href="https://linkedin.com" target="_blank" className="hover:text-cyan-400 transition-colors p-2">LinkedIn</a></Magnetic>
-              <Magnetic strength={0.3}><a href="https://github.com" target="_blank" className="hover:text-cyan-400 transition-colors p-2">GitHub</a></Magnetic>
+              <Magnetic strength={0.3}><a href="https://www.linkedin.com/in/arulvinayak-m/" target="_blank" className="hover:text-cyan-400 transition-colors p-2">LinkedIn</a></Magnetic>
+              <Magnetic strength={0.3}><a href="https://github.com/Arveymenon" target="_blank" className="hover:text-cyan-400 transition-colors p-2">GitHub</a></Magnetic>
               <Magnetic strength={0.3}><a href="mailto:arveymenon@gmail.com" className="hover:text-cyan-400 transition-colors p-2">Email</a></Magnetic>
             </div>
             <div className="md:text-right order-2 md:order-3">MUMBAI, IN // 18.9° N</div>
